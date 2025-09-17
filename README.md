@@ -1,8 +1,8 @@
-#Portfolio Optimizer
+# Portfolio Optimizer
 
 A comprehensive Python implementation of Modern Portfolio Theory (Markowitz model) with Monte Carlo simulation for optimal asset allocation. This tool helps investors maximize returns for a given level of risk by calculating the efficient frontier and identifying portfolios with the highest Sharpe ratio.
 
-##Features
+## Features
 
 Historical Data Retrieval: Automatically fetches stock price data from Yahoo Finance
 Risk-Return Analysis: Calculates annualized returns, volatility, and covariance matrices
